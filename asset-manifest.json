@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-mzpt/static/css/main.47758f27.chunk.css",
-    "main.js": "/react-mzpt/static/js/main.8719e65f.chunk.js",
-    "main.js.map": "/react-mzpt/static/js/main.8719e65f.chunk.js.map",
+    "main.css": "/react-mzpt/static/css/main.708e61c1.chunk.css",
+    "main.js": "/react-mzpt/static/js/main.57e95e23.chunk.js",
+    "main.js.map": "/react-mzpt/static/js/main.57e95e23.chunk.js.map",
     "runtime-main.js": "/react-mzpt/static/js/runtime-main.0b00e411.js",
     "runtime-main.js.map": "/react-mzpt/static/js/runtime-main.0b00e411.js.map",
     "static/js/2.560455c2.chunk.js": "/react-mzpt/static/js/2.560455c2.chunk.js",
     "static/js/2.560455c2.chunk.js.map": "/react-mzpt/static/js/2.560455c2.chunk.js.map",
     "index.html": "/react-mzpt/index.html",
-    "static/css/main.47758f27.chunk.css.map": "/react-mzpt/static/css/main.47758f27.chunk.css.map",
+    "static/css/main.708e61c1.chunk.css.map": "/react-mzpt/static/css/main.708e61c1.chunk.css.map",
     "static/js/2.560455c2.chunk.js.LICENSE.txt": "/react-mzpt/static/js/2.560455c2.chunk.js.LICENSE.txt",
     "static/media/Mzgp.61a51096.png": "/react-mzpt/static/media/Mzgp.61a51096.png",
     "static/media/inst.661a8d22.png": "/react-mzpt/static/media/inst.661a8d22.png"
@@ -16,7 +16,7 @@
   "entrypoints": [
     "static/js/runtime-main.0b00e411.js",
     "static/js/2.560455c2.chunk.js",
-    "static/css/main.47758f27.chunk.css",
-    "static/js/main.8719e65f.chunk.js"
+    "static/css/main.708e61c1.chunk.css",
+    "static/js/main.57e95e23.chunk.js"
   ]
 }
