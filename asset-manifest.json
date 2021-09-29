@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "/react-mzpt/static/css/main.eeb905ed.chunk.css",
-    "main.js": "/react-mzpt/static/js/main.5b4092ce.chunk.js",
-    "main.js.map": "/react-mzpt/static/js/main.5b4092ce.chunk.js.map",
+    "main.css": "/react-mzpt/static/css/main.7e47239a.chunk.css",
+    "main.js": "/react-mzpt/static/js/main.1beeedc0.chunk.js",
+    "main.js.map": "/react-mzpt/static/js/main.1beeedc0.chunk.js.map",
     "runtime-main.js": "/react-mzpt/static/js/runtime-main.0b00e411.js",
     "runtime-main.js.map": "/react-mzpt/static/js/runtime-main.0b00e411.js.map",
     "static/js/2.b5a7fe57.chunk.js": "/react-mzpt/static/js/2.b5a7fe57.chunk.js",
     "static/js/2.b5a7fe57.chunk.js.map": "/react-mzpt/static/js/2.b5a7fe57.chunk.js.map",
     "index.html": "/react-mzpt/index.html",
-    "static/css/main.eeb905ed.chunk.css.map": "/react-mzpt/static/css/main.eeb905ed.chunk.css.map",
+    "static/css/main.7e47239a.chunk.css.map": "/react-mzpt/static/css/main.7e47239a.chunk.css.map",
     "static/js/2.b5a7fe57.chunk.js.LICENSE.txt": "/react-mzpt/static/js/2.b5a7fe57.chunk.js.LICENSE.txt",
     "static/media/Mzgp.61a51096.png": "/react-mzpt/static/media/Mzgp.61a51096.png",
     "static/media/inst.661a8d22.png": "/react-mzpt/static/media/inst.661a8d22.png",
+    "static/media/message.7fa7237f.php": "/react-mzpt/static/media/message.7fa7237f.php",
     "static/media/phone.a1c707cc.svg": "/react-mzpt/static/media/phone.a1c707cc.svg",
     "static/media/remove.dea9ba71.svg": "/react-mzpt/static/media/remove.dea9ba71.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.0b00e411.js",
     "static/js/2.b5a7fe57.chunk.js",
-    "static/css/main.eeb905ed.chunk.css",
-    "static/js/main.5b4092ce.chunk.js"
+    "static/css/main.7e47239a.chunk.css",
+    "static/js/main.1beeedc0.chunk.js"
   ]
 }
