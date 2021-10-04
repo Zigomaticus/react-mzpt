@@ -3,6 +3,17 @@ import React from "react";
 function Home() {
   return (
     <div className="main">
+      <div className="main__promo">
+        <iframe
+          width="760"
+          height="435"
+          src="https://www.youtube.com/embed/oNzZwVjTVuo"
+          title="YouTube video player"
+          frameBorder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowFullscreen
+        ></iframe>
+      </div>
       <div className="main__title">
         <b>МОЗГОПАТИ</b> это сочетание таких игр как "Брейнринг", "Своя игра" и
         "Что? Где? Когда?"
@@ -13,8 +24,8 @@ function Home() {
         самих учеников-участников
       </div>
       <div className="main__for">
-        <div className="main__for-1">ДЛЯ ОРГАНИЗАТОРОВ</div>
-        <div className="main__for-1">ДЛЯ УЧАСТНИКОВ</div>
+        <div className="main__for-1">ДЛЯ ОРГАНИЗАТОРОВ:</div>
+        <div className="main__for-1">ДЛЯ УЧАСТНИКОВ:</div>
       </div>
       <div className="main__ul">
         <ul className="main__ul-1">
@@ -65,17 +76,6 @@ function Home() {
             Игроки видят счет онлайн, что позволяет сохранять мотивацию к победе
           </li>
         </ul>
-      </div>
-      <div className="main__promo">
-        <iframe
-          width="760"
-          height="435"
-          src="https://www.youtube.com/embed/oNzZwVjTVuo"
-          title="YouTube video player"
-          frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen
-        ></iframe>
       </div>
     </div>
   );
