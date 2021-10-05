@@ -1,24 +1,30 @@
 {
   "files": {
-    "main.css": "/react-mzpt/static/css/main.6ea1746f.chunk.css",
-    "main.js": "/react-mzpt/static/js/main.411ff75b.chunk.js",
-    "main.js.map": "/react-mzpt/static/js/main.411ff75b.chunk.js.map",
+    "main.css": "/react-mzpt/static/css/main.cd8270ab.chunk.css",
+    "main.js": "/react-mzpt/static/js/main.b1e07980.chunk.js",
+    "main.js.map": "/react-mzpt/static/js/main.b1e07980.chunk.js.map",
     "runtime-main.js": "/react-mzpt/static/js/runtime-main.0b00e411.js",
     "runtime-main.js.map": "/react-mzpt/static/js/runtime-main.0b00e411.js.map",
-    "static/js/2.97975373.chunk.js": "/react-mzpt/static/js/2.97975373.chunk.js",
-    "static/js/2.97975373.chunk.js.map": "/react-mzpt/static/js/2.97975373.chunk.js.map",
+    "static/js/2.7c25ed75.chunk.js": "/react-mzpt/static/js/2.7c25ed75.chunk.js",
+    "static/js/2.7c25ed75.chunk.js.map": "/react-mzpt/static/js/2.7c25ed75.chunk.js.map",
     "index.html": "/react-mzpt/index.html",
-    "static/css/main.6ea1746f.chunk.css.map": "/react-mzpt/static/css/main.6ea1746f.chunk.css.map",
-    "static/js/2.97975373.chunk.js.LICENSE.txt": "/react-mzpt/static/js/2.97975373.chunk.js.LICENSE.txt",
+    "static/css/main.cd8270ab.chunk.css.map": "/react-mzpt/static/css/main.cd8270ab.chunk.css.map",
+    "static/js/2.7c25ed75.chunk.js.LICENSE.txt": "/react-mzpt/static/js/2.7c25ed75.chunk.js.LICENSE.txt",
     "static/media/Mzgp.61a51096.png": "/react-mzpt/static/media/Mzgp.61a51096.png",
     "static/media/inst.661a8d22.png": "/react-mzpt/static/media/inst.661a8d22.png",
     "static/media/phone.a1c707cc.svg": "/react-mzpt/static/media/phone.a1c707cc.svg",
-    "static/media/remove.dea9ba71.svg": "/react-mzpt/static/media/remove.dea9ba71.svg"
+    "static/media/remove.dea9ba71.svg": "/react-mzpt/static/media/remove.dea9ba71.svg",
+    "static/media/slide1.c06dabe0.jpg": "/react-mzpt/static/media/slide1.c06dabe0.jpg",
+    "static/media/slide2.0f15ad31.jpg": "/react-mzpt/static/media/slide2.0f15ad31.jpg",
+    "static/media/slide3.eea80ad3.jpg": "/react-mzpt/static/media/slide3.eea80ad3.jpg",
+    "static/media/slide4.1843d53a.jpg": "/react-mzpt/static/media/slide4.1843d53a.jpg",
+    "static/media/slide5.462f46a5.jpg": "/react-mzpt/static/media/slide5.462f46a5.jpg",
+    "static/media/slide6.7f36501a.jpg": "/react-mzpt/static/media/slide6.7f36501a.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.0b00e411.js",
-    "static/js/2.97975373.chunk.js",
-    "static/css/main.6ea1746f.chunk.css",
-    "static/js/main.411ff75b.chunk.js"
+    "static/js/2.7c25ed75.chunk.js",
+    "static/css/main.cd8270ab.chunk.css",
+    "static/js/main.b1e07980.chunk.js"
   ]
 }
