@@ -65,12 +65,18 @@ function App() {
             детали
           </p>
           <input
+            required
+            minlength="2"
+            maxlength="60"
             className="input"
             name="name"
             type="text"
             placeholder="Ваше имя"
           />
           <input
+            required
+            minlength="5"
+            maxlength="20"
             className="input"
             name="tel"
             type="phone"
