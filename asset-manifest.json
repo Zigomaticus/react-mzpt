@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-mzpt/static/css/main.97295b15.chunk.css",
-    "main.js": "/react-mzpt/static/js/main.21370457.chunk.js",
-    "main.js.map": "/react-mzpt/static/js/main.21370457.chunk.js.map",
+    "main.js": "/react-mzpt/static/js/main.d7a0d7c2.chunk.js",
+    "main.js.map": "/react-mzpt/static/js/main.d7a0d7c2.chunk.js.map",
     "runtime-main.js": "/react-mzpt/static/js/runtime-main.0b00e411.js",
     "runtime-main.js.map": "/react-mzpt/static/js/runtime-main.0b00e411.js.map",
     "static/js/2.09b53be9.chunk.js": "/react-mzpt/static/js/2.09b53be9.chunk.js",
@@ -11,6 +11,7 @@
     "static/css/main.97295b15.chunk.css.map": "/react-mzpt/static/css/main.97295b15.chunk.css.map",
     "static/js/2.09b53be9.chunk.js.LICENSE.txt": "/react-mzpt/static/js/2.09b53be9.chunk.js.LICENSE.txt",
     "static/media/Mzgp.61a51096.png": "/react-mzpt/static/media/Mzgp.61a51096.png",
+    "static/media/message.7e97b6e0.php": "/react-mzpt/static/media/message.7e97b6e0.php",
     "static/media/phone.a1c707cc.svg": "/react-mzpt/static/media/phone.a1c707cc.svg",
     "static/media/remove.dea9ba71.svg": "/react-mzpt/static/media/remove.dea9ba71.svg"
   },
@@ -18,6 +19,6 @@
     "static/js/runtime-main.0b00e411.js",
     "static/js/2.09b53be9.chunk.js",
     "static/css/main.97295b15.chunk.css",
-    "static/js/main.21370457.chunk.js"
+    "static/js/main.d7a0d7c2.chunk.js"
   ]
 }
