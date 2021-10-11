@@ -1,19 +1,17 @@
 import "./app.scss";
 import logo from "./images/Mzgp.png";
-import vk from "./images/vk.png";
-import inst from "./images/inst.png";
-import telegram from "./images/telegram.png";
-import viber from "./images/viber.png";
-import whatsapp from "./images/whatsapp.png";
-import phone from "./images/phone.svg";
-import remove from "./images/remove.svg";
+// import inst from "./images/inst.png";
 
 import Home from "./pages/Home";
 import Example from "./pages/Example";
 import Questions from "./pages/Questions";
 import Play from "./pages/Play";
+import Footer from "./pages/Footer";
+import Form from "./pages/Form";
+
 import { Route, Link, Switch } from "react-router-dom";
 import React from "react";
+import CallButton from "./pages/CallButton";
 // import moduleName from "./message.php";
 
 function App() {
@@ -50,106 +48,10 @@ function App() {
         <Route exact path="/questions" component={Questions} />
       </Switch>
 
-      <div className={isVisibleForm ? "overlay" : ""}>
-        <form className="form" name="form" method="post" action="message.php">
-          <img
-            onClick={() => setIsVisibleForm(true)}
-            src={remove}
-            width={28}
-            height={28}
-            alt="remove"
-          />
-          <p className="p1">Есть вопросы по мероприятию?</p>
-          <p className="p2">
-            Напишите свое имя и номер телефона. Мы свяжемся с вами и уточним
-            детали
-          </p>
-          <input
-            required
-            minlength="2"
-            maxlength="60"
-            className="input"
-            name="name"
-            type="text"
-            placeholder="Ваше имя"
-          />
-          <input
-            required
-            minlength="5"
-            maxlength="20"
-            className="input"
-            name="tel"
-            type="phone"
-            placeholder="Ваш номер телефона"
-          />
-          <input className="button" placeholder="Отправить" type="submit" />
-        </form>
-      </div>
-      <div onClick={onVisibleForm} type="button" className="callback-bt">
-        <div className="text-call">
-          <i className="fa fa-phone">
-            <img src={phone} width={28} height={28} alt="phone" />
-          </i>
-          <span>Заказать звонок</span>
-        </div>
-      </div>
+      <Form isVisibleForm={isVisibleForm} setIsVisibleForm={setIsVisibleForm} />
+      <CallButton onVisibleForm={onVisibleForm} />
 
-      <div className="footer">
-        <div className="footer__text">
-          Есть вопросы? Звоните
-          <a href="tel:+79124977157" className="footer__tel">
-            ( тел. +79124977157 )
-          </a>{" "}
-          или пишите в любой соц сети:
-        </div>
-        <ul className="footer__social">
-          <li>
-            <a
-              href="https://vk.com/denis_from_perm"
-              target="_blank"
-              rel="noreferrer"
-            >
-              <img src={vk} alt="vk_icon"></img>
-            </a>
-          </li>
-          <li>
-            <a
-              href="https://vk.com/denis_from_perm"
-              target="_blank"
-              rel="noreferrer"
-            >
-              <img src={inst} alt="inst_icon"></img>
-            </a>
-          </li>
-          <li>
-            <a
-              href="https://vk.com/denis_from_perm"
-              target="_blank"
-              rel="noreferrer"
-            >
-              <img src={telegram} alt="th_icon"></img>
-            </a>
-          </li>
-          <li>
-            <a
-              href="https://vk.com/denis_from_perm"
-              target="_blank"
-              rel="noreferrer"
-            >
-              <img src={viber} alt="viber_icon"></img>
-            </a>
-          </li>
-          <li>
-            <a
-              href="https://vk.com/denis_from_perm"
-              target="_blank"
-              rel="noreferrer"
-            >
-              <img src={whatsapp} alt="whatsapp_icon"></img>
-            </a>
-          </li>
-        </ul>
-      </div>
+      <Footer />
     </div>
   );
 }
